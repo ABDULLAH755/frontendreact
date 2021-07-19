@@ -1,0 +1,33 @@
+.main1{
+    background: #E5E5E5;
+    height: 800px;
+}
+
+.head1{
+    display: flex;
+    justify-content: flex-start;
+    padding: 20px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+.detailsbox{
+    margin-top: 1px;
+}
+
+.headinglists{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+.list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
